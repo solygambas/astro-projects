@@ -4,6 +4,12 @@ A simple project to discover Astro.
 
 [See Demo deployed on Netlify](https://astro-blog-project.netlify.app/)
 
+<p align="center">
+  <a href="https://astro-blog-project.netlify.app/">
+    <img src="screenshot.png" alt="">
+  </a>
+</p>
+
 ## Features
 
 - creating a new Astro project.
