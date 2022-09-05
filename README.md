@@ -2,6 +2,8 @@
 
 A simple project to discover Astro.
 
+[See Demo deployed on Netlify](https://astro-blog-project.netlify.app/)
+
 ## Features
 
 - creating a new Astro project.
